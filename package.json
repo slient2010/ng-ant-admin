@@ -25,15 +25,16 @@
     "@angular/router": "^4.4.7",
     "antd": "^2.13.14",
     "core-js": "^2.5.7",
-    "ng-zorro-antd": "^0.5.5",
+    "ng-zorro-antd": "^1.7.1",
     "ng2-charts": "^1.6.0",
     "ngx-cookie": "^1.0.1",
+    "puppeteer": "^1.9.0",
     "rxjs": "^5.5.12",
     "web-storage-cache": "^1.0.3",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
-    "@angular/cli": "^6.2.3",
+    "@angular/cli": "^7.0.2",
     "@angular/compiler-cli": "^4.4.7",
     "@angular/language-service": "^4.4.7",
     "@types/jasmine": "~2.5.53",
